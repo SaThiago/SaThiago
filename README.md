@@ -13,7 +13,9 @@
 
 ## Habilidades e Conhecimentos
 
-
+<img src="
+            <i class="devicon-python-plain-wordmark colored"></i>
+          " width="100px">
 
 **ThiagoTxr/ThiagoTxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
