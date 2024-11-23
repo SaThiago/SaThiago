@@ -1,6 +1,6 @@
 <center><h1> Bem-vindos! Welcome! </h1></center>
 
-![Gif do robô](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI0Y3ZwMmx4cTF6OHN4ajVqNWRwcnE3b2dtaGUzbDJyaHduZnE2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp)
+<center><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI0Y3ZwMmx4cTF6OHN4ajVqNWRwcnE3b2dtaGUzbDJyaHduZnE2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp" width="150px"></center>
 
 ## Sobre mim
 
@@ -13,12 +13,12 @@
 
 ## Habilidades e Conhecimentos
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-plain-wordmark.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="100px">
+<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-plain-wordmark.svg" width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50px"></center>
           
           
           
@@ -26,7 +26,7 @@
           
           
 
-**ThiagoTxr/ThiagoTxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**ThiagoTxr/ThiagoTxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
