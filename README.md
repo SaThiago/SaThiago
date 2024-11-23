@@ -1,6 +1,6 @@
 <center><h1> Bem-vindos! Welcome! </h1></center>
 
-<center><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI0Y3ZwMmx4cTF6OHN4ajVqNWRwcnE3b2dtaGUzbDJyaHduZnE2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp" width="150px"></center>
+<p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI0Y3ZwMmx4cTF6OHN4ajVqNWRwcnE3b2dtaGUzbDJyaHduZnE2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp" width="150px"></p>
 
 ## Sobre mim
 
