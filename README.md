@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-- 💁 Nome: Thiago Teixeira <br>
+- 💁 Nome/Name: Thiago Teixeira de Sá <br>
 - 🔌 Engenheiro Eletricista / Electrical Engineer <br>
 - 🎓 MBA Data Science and Analytics - USP (2026) <br>
 - 🎓 Mestrando em Inteligência Computacional - UTFPR (2027) / Master's Degree in Computational Intelligence - UTFPR (2027) <br>
