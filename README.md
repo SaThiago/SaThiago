@@ -4,12 +4,12 @@
 
 ## Sobre mim
 
-💁 Nome: Thiago Teixeira <br>
-🔌 Engenheiro Eletricista / Electrical Engineer <br>
-🎓 MBA Data Science and Analytics - USP (2026) <br>
-🎓 Mestrando em Inteligência Computacional - UTFPR (2027) / Master's Degree in Computational Intelligence - UTFPR (2027) <br>
-💻 Residente no Programa HUB de Inteligência Artificial - SENAI (2025) / Resident in the HUB Artificial Intelligence Program - SENAI (2025) <br>
-🔗 [Meu LinkedIn / My LinkedIn](https://www.linkedin.com/in/thiagotxrsa/)
+- 💁 Nome: Thiago Teixeira <br>
+- 🔌 Engenheiro Eletricista / Electrical Engineer <br>
+- 🎓 MBA Data Science and Analytics - USP (2026) <br>
+- 🎓 Mestrando em Inteligência Computacional - UTFPR (2027) / Master's Degree in Computational Intelligence - UTFPR (2027) <br>
+- 💻 Residente no Programa HUB de Inteligência Artificial - SENAI (2025) / Resident in the HUB Artificial Intelligence Program - SENAI (2025) <br>
+- 🔗 [Meu LinkedIn / My LinkedIn](https://www.linkedin.com/in/thiagotxrsa/)
 
 ## Habilidades e Conhecimentos
 
