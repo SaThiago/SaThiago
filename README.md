@@ -14,8 +14,8 @@
 ## Habilidades e Conhecimentos
 
 <img src="
-            <i class="devicon-python-plain-wordmark colored"></i>
-          " width="100px">
+            "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+          width="100px">
 
 **ThiagoTxr/ThiagoTxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
