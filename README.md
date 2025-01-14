@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzI0Y3ZwMmx4cTF6OHN4ajVqNWRwcnE3b2dtaGUzbDJyaHduZnE2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp" width="150px"></p>
 
-## Sobre mim / About me:
+## Sobre mim / About me
 
 - 💁 Nome/Name: Thiago Teixeira de Sá <br>
 - 🔌 Engenheiro Eletricista / Electrical Engineer <br>
