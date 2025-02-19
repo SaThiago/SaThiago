@@ -21,7 +21,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50px">
 </p>
           
-          
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotxr&layout=compact" alt="Top Langs" />
+</div>  
           
 
           
