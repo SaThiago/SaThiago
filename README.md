@@ -26,14 +26,10 @@
 <hr>       
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotxr&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagotxr&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotxr&layout=compact&theme=transparent" alt="Top Langs" height="150px"/>
 </div>
 
-<div align="center" style="border-bottom: 2px solid #ccc; margin: 10px 0;"></div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagotxr&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats"  width="300px" />
-</div>
 
           
           
