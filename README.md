@@ -32,7 +32,7 @@
 <div align="center" style="border-bottom: 2px solid #ccc; margin: 10px 0;"></div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagotxr&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagotxr&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats"  width="300px" />
 </div>
 
           
