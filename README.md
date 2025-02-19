@@ -9,7 +9,10 @@
 - 🎓 MBA Data Science and Analytics - USP (2026) <br>
 - 🎓 Mestrando em Inteligência Computacional - UTFPR (2026) / Master's Degree in Computational Intelligence - UTFPR (2026) <br>
 - 💻 Residente no Programa HUB de Inteligência Artificial - SENAI (2025) / Resident in the HUB Artificial Intelligence Program - SENAI (2025) <br>
-- 🔗 [Meu LinkedIn / My LinkedIn](https://www.linkedin.com/in/thiagotxrsa/)
+
+<a href="https://www.linkedin.com/in/thiagotxrsa/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="25px">
+</a>
 
 ## Habilidades / Skills
 
