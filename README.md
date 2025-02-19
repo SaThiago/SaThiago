@@ -19,12 +19,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-plain-wordmark.svg" width="50px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50px" />    
 </p>
-          
+
+
+<hr>       
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotxr&layout=compact" alt="Top Langs" />
-</div>  
-          
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotxr&layout=compact&theme=dark" alt="Top Langs" />
+</div>
+
+<div align="center" style="border-bottom: 2px solid #ccc; margin: 10px 0;"></div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagotxr&show_icons=true&theme=dark&rank_icon=github" alt="GitHub Stats" />
+</div>
 
           
           
