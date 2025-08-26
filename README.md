@@ -26,12 +26,7 @@
 </p>
 
 
-<hr>       
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagotxr&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotxr&layout=compact&theme=transparent" alt="Top Langs" height="150px"/>
-</div>
 
 
           
