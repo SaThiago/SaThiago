@@ -27,8 +27,7 @@
 
 </a>
 
-Em construção...
-/n
+Em construção... <br>
 Building...
 
 
